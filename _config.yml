@@ -7,13 +7,13 @@ title: HK ' Site
 subtitle: 一个程序猿的理想国度
 description:
 keywords: 前端, html, css, javascript
-author: hawkeye(黄锴)
+author: HK(黄锴)
 language:
 timezone:
 
 # URL
 ## If your site is put in a subdirectory, set url as 'http://yoursite.com/child' and root as '/child/'
-url: http://hksite.cn 
+url: https://hksite.cn 
 root: /
 permalink: :title/
 permalink_defaults: post/
@@ -55,10 +55,11 @@ highlight:
 
 # search bar
 algolia:
-  applicationID: 'HI6G9CLJ2C'
-  apiKey: '6671e2e90c9c188081236ab28d9c2174'
-  indexName: 'hksite'
-  
+  applicationID: UVD02QN2NI
+  adminApiKey: 7bc546079341b1fa8311cc8931427dc4
+  apiKey: 94932d8504e5be4abfff9c994dd2880e
+  indexName: hksite
+
 # Home page setting
 # path: Root path for your blogs index page. (default = '')
 # per_page: Posts displayed per page. (0 = disable pagination)

@@ -4,7 +4,7 @@ date: 2018-10-01 20:07:36
 type: "about"
 comments: false
 ---
-## 关于我
+# 关于我
 
 算起来，前端也学了 1-2 年了，记得刚上大学的时候，也没想到最后会走上这样一条路。刚入学的时候，觉得之后肯定是做计算机基础应用，后来选了嵌入式这个方向，玩了一段时间单片机，STM32，一度以为这就是未来我的方向。毕竟在当时那个年代，物联网，云计可是炙手可热的话题，学习嵌入式也是转型物联网人才不错的一条路子呢！？
 
@@ -30,41 +30,41 @@ comments: false
 在大学期间，利用MFC做了一个简单的电子地图，点菜软件，后来接了一个外部项目，做管线探测仪的界面（STM32+QT），获得了一笔不菲的收入，至少让我整个大学期间能自给自足。
 第一次接触前端，就是直接通过视频学的Vue，然后做了所有人几乎都会做的东西「豆瓣」
 
-![img](http://img.hksite.cn/2019-12-24-070649.png)
+![img](http://img.hksite.cn/2019-12-24-070649.png?imageView2/2/w/600/h/600/q/75|imageslim)
 
-![img](http://img.hksite.cn/2019-12-24-070708.png)
+![img](http://img.hksite.cn/2019-12-24-070708.png?imageView2/2/w/600/h/600/q/75|imageslim)
 
-![img](http://img.hksite.cn/2019-12-24-070753.png)
+![img](http://img.hksite.cn/2019-12-24-070753.png?imageView2/2/w/600/h/600/q/75|imageslim)
 
 说实话做完还蛮有成就感的。
 
 之后，为了方便自己阅读CNN新闻，做了一个CNN新闻阅读器，能实时拉取每日的CNN新闻，同时支持快捷查词（查词接口也是自己实现的，数据库中有40万词条的数据库），还是蛮有意思的。
 
-![img](http://img.hksite.cn/2019-12-24-070824.jpg)
+![img](http://img.hksite.cn/2019-12-24-070824.jpg?imageView2/2/w/600/h/600/q/75|imageslim)
 
-![img](http://img.hksite.cn/2019-12-24-070841.jpg)
+![img](http://img.hksite.cn/2019-12-24-070841.jpg?imageView2/2/w/600/h/600/q/75|imageslim)
 
-![img](http://img.hksite.cn/2019-12-24-070852.jpg)
+![img](http://img.hksite.cn/2019-12-24-070852.jpg?imageView2/2/w/600/h/600/q/75|imageslim)
 
 到了快找工作租房的时候，发现豆瓣上的租房信息太分散，不支持高级检索，而且不能快速看到图片和简要信息，因此就做了一个租房猎手的工具，每天更新租房信息，同时整合了其他平台的信息，方便在一个地方查询到所有租房信息，对我自己而言可是方便不少。
 
-![img](http://img.hksite.cn/2019-12-24-080439.png)
+![img](http://img.hksite.cn/2019-12-24-080439.png?imageView2/2/w/600/h/600/q/75|imageslim)
 
 ## 写作经历
 
 上大学开始，自己总是没事就折腾一些乱七八糟的东西，就想着是不是应该找个地方记录一下自己的心路历程，于是找到了当时最有名的 [CSDN](https://me.csdn.net/hk2291976)，开始在上面写一些自己的经验文章。
 
-![image-20191224153740023](http://img.hksite.cn/2019-12-24-073740.png)
+![image-20191224153740023](http://img.hksite.cn/2019-12-24-073740.png?imageView2/2/w/600/h/600/q/75|imageslim)
 
 后来学习了 Markdown 语法后，实在是忍不了 CSDN 的编辑器不支持 markdown（当然现在是都支持了），于是跳到了 [简书](https://www.jianshu.com/u/30f737ee0051) 写了一段时间，收获了不少喜欢，简书算是正式开启我写文章兴趣的平台吧。上面的文章就不再仅限于技术，基本什么都有了。
 
-![image-20191224151213913](http://img.hksite.cn/2019-12-24-071214.png)
+![image-20191224151213913](http://img.hksite.cn/2019-12-24-071214.png?imageView2/2/w/600/h/600/q/75|imageslim)
 
 
 
 研二恰逢公众号开始火的时间，于是顺势也开通自己的公众号，累计发了80篇原创，陆续也有个几千粉丝，那时候每天上完课，做完作业还要挑灯想素材，写推文，虽然累但是异常充实，偶尔还能看到粉丝在后台互动，相互打气。那段时间也算得上是整个研究生平凡日子里为数不多的几段精彩记忆了。
 
-![image-20191224151703833](http://img.hksite.cn/2019-12-24-071707.png)
+![image-20191224151703833](http://img.hksite.cn/2019-12-24-071707.png?imageView2/2/w/600/h/400/q/75|imageslim)
 
 
 
@@ -72,4 +72,4 @@ comments: false
 
 到了快找工作的时候，开始刷 Leetcode，于是开始把Leetcode的笔记做汇总，就写了[LeetBook](https://hk029.gitbooks.io/leetbook/content/)这本开源题集，谁也没想到这本书现在还不断有人看，最近一次看竟然破500星了，可我已经没有更新了，真是很惭愧。
 
-![image-20191224153542589](http://img.hksite.cn/2019-12-24-073545.png)
+![image-20191224153542589](http://img.hksite.cn/2019-12-24-073545.png?imageView2/2/w/600/h/600/q/75|imageslim)
